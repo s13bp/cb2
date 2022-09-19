@@ -1,0 +1,34 @@
+        :)
+
+
+
+
+SAHIB BHARAJ
+Hand crafted design & web development
+
+Design tools:
+Figma
+Photoshop
+Blender
+
+
+
+
+
+
+
+TECH STACK
+
+React
+Next.js
+Three.js
+Framer Motion
+
+
+
+
+
+FONTS USED 
+
+Gotham
+Hiragino Kaku Gothic
